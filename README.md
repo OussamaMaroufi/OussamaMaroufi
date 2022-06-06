@@ -27,9 +27,13 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis - Univer
 <a href="https://github.com/OussamaMaroufi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=OussamaMaroufi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br>
 <p align="center" href="https://github.com/OussamaMaroufi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairi-brahmi"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaMaroufi"/>
   </p>
 <br>
+
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=OussamaMaroufi&margin-w=5" alt="OussamaMaroufi" /></a> </p>
+<br>
+<p align="center"> <a href=""><img src="https://github-readme-stats.vercel.app/api?username=OussamaMaroufi&count_private=true&hide=stars,prs" alt="OussamaMaroufi" /></a> </p>
 
 
 
