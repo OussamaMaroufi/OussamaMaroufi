@@ -111,15 +111,11 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis - Univer
   </a>
 &emsp;
   <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/nodejs-%236DB33F.svg?logo=nodejs&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"/>
   </a>
 &emsp;
   <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
-  </a>
-   &emsp;
-  <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
 
 </p>
@@ -153,6 +149,9 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis - Univer
 
   &emsp;
     <a href=""><img src ="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"></a>
+	
+&emsp;
+	<a><img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a>
    
  </p>
 
