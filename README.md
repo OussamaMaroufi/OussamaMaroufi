@@ -108,11 +108,11 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis - Univer
    &emsp; 
 
   <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=nestjs&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/nestjs-%236DB33F.svg?logo=nestjs&logoColor=white"/>
   </a>
 &emsp;
   <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=nodejs&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/nodejs-%236DB33F.svg?logo=nodejs&logoColor=white"/>
   </a>
 	
   &emsp;
