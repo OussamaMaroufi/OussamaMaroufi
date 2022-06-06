@@ -96,6 +96,10 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis - Univer
   <a  target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"/>
   </a>
+  &emsp;
+  <a  target="_blank"> 
+<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  </a>
 </p>
 
 
