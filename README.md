@@ -27,8 +27,8 @@ Passionate about building scalable, secure, and automated infrastructure in the 
 
 ## 📫 Connect With Me
 
-- [LinkedIn](#) <!-- Add your LinkedIn URL here if you'd like -->
-- [Email](mailto:your.email@example.com) <!-- Replace with your email if you'd like -->
+- [LinkedIn](www.linkedin.com/in/oussama-maaroufi) <!-- Add your LinkedIn URL here if you'd like -->
+- [Email](mailto:maaroufi.ossema@gmail.com) <!-- Replace with your email if you'd like -->
 
 ---
 
